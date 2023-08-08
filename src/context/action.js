@@ -1,0 +1,6 @@
+export const SHOW_SIDEBAR = 'SHOW_SIDEBAR';
+export const HIDE_SIDEBAR = 'HIDE_SIDEBAR';
+
+export const CHANGE_STACK = 'CHANGE_STACK';
+
+export const TOGGLE_DARK_MODE = 'TOGGLE_DARK_MODE';
